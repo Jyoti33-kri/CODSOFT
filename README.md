@@ -1,3 +1,3 @@
 # CODSOFT
-CPP Project for CodSoft internship
+CPP Project for CodSoft
 
